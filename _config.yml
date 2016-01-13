@@ -1,0 +1,28 @@
+name: Czar-Adventures
+favicon: null
+layout_spectrum: 0.8869090299122036
+typography_spectrum: 0.5057643996551633
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.8638910413719714
+  lightness: 0.7534211385063827
+  saturation: 0.4474064693786204
+  rhythmicContrast: 0.6042622649110854
+purpose: []
